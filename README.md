@@ -18,7 +18,10 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
 | ❇️ | [Jobspresso](https://jobspresso.co/) | Jobspresso focuses on remote jobs in tech, marketing, customer support, and more.        |
 | ❇️ | [Remotive](https://remotive.io/) | Remote jobs in education, engineering, human resources, marketing, product, sales, and support.         |
 | ❇️ | [RemoteBase](https://remotebase.io/) | General tech remote jobs, with a great amount of development jobs.         |
-
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
+| ❇️ | [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere) | helping the world’s design talent share their creations and get hired.        |
+| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads. Work remotely from your home or places around the world.       |
+| ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities. These jobs are often referred to as telecommuting, telework, online, virtual, & work-from-home.       |
 
 
 ### ☎️ Support

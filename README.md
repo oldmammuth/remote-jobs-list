@@ -15,6 +15,9 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
+| ❇️ | [Jobspresso](https://jobspresso.co/) | Jobspresso focuses on remote jobs in tech, marketing, customer support, and more.        |
+| ❇️ | [Remotive](https://remotive.io/) | Remote jobs in education, engineering, human resources, marketing, product, sales, and support.         |
+| ❇️ | [RemoteBase](https://remotebase.io/) | General tech remote jobs, with a great amount of development jobs.         |
 
 
 
@@ -23,3 +26,11 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
 |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |
+
+
+
+### :floppy_disk: Development
+
+ |    | Site                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |

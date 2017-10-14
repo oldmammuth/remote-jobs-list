@@ -14,6 +14,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
 | ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
+| ❇️ | [Remote.com](https://remote.com/jobs) | Find a remote job to fit your lifestyle.        |
 | ❇️ | [RemoteBase](https://remotebase.io/) | Work remotely. From anywhere on the planet.        |
 | ❇️ | [Remoteur](http://www.remoteur.com/) | Remote jobs in Europe delivered to your inbox bi-weekly.        |
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |

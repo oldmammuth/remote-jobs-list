@@ -8,7 +8,7 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
  
  These remote job sites advertise a range of jobs in the tech industry.
  
- |    | Sponsor                                                                                                           | Description                                                   |
+ |    | Site                                                                                                          | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
@@ -16,6 +16,6 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
 
 ### ☎️ Support
 
-|    | Sponsor                                                                                                           | Description                                                   |
+|    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |

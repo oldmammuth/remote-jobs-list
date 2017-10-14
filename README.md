@@ -20,19 +20,27 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | We aggregate remote jobs from around the web.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
-| ❇️ | [We Work Remotely](https://weworkremotely.com) | We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
+
 
 ### :apple: Design 
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
 
+
 ### :gem: Premium 
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
+| ❇️ | [Jobspresso](https://jobspresso.co/) | Jobspresso focuses on remote jobs in tech, marketing, customer support, and more.        |
+| ❇️ | [Remotive](https://remotive.io/) | Remote jobs in education, engineering, human resources, marketing, product, sales, and support.         |
+| ❇️ | [RemoteBase](https://remotebase.io/) | General tech remote jobs, with a great amount of development jobs.         |
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
+| ❇️ | [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere) | helping the world’s design talent share their creations and get hired.        |
+| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads. Work remotely from your home or places around the world.       |
+| ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities. These jobs are often referred to as telecommuting, telework, online, virtual, & work-from-home.       |
 
 
 ### ☎️ Support
@@ -40,3 +48,11 @@ These remote job sites advertise a range of jobs in the tech industry.
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |
+
+
+
+### :floppy_disk: Development
+
+ |    | Site                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |

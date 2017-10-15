@@ -26,6 +26,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities. These jobs are often referred to as telecommuting, telework, online, virtual, & work-from-home.       |
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
+| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
+| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
 
 
 ### 🔨 Freelancing
@@ -35,9 +37,6 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
-| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
-| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
-
 
 
 

@@ -48,7 +48,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 ### :apple: Design 
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
+| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
 
 
 

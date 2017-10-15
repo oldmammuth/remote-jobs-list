@@ -10,15 +10,20 @@ These remote job sites advertise a range of jobs in the tech industry.
  
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
-| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups       |
+| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
+| ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more.       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
 | ❇️ | [Remote.com](https://remote.com/jobs) | Find a remote job to fit your lifestyle.        |
+| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | Remote jobs for developers, customer service reps, recruiters, designers and sales professionals        |
 | ❇️ | [RemoteBase](https://remotebase.io/) | Work remotely. From anywhere on the planet.        |
 | ❇️ | [Remoteur](http://www.remoteur.com/) | Remote jobs in Europe delivered to your inbox bi-weekly.        |
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
+| ❇️ | [Remotive](https://remotive.io/) | Remotive helps 25,000+ remote workers.        |
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | We aggregate remote jobs from around the web.        |
+| ❇️ | [Remotive](https://www.skipthedrive.com/) | Find remote and telecommuting jobs.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |

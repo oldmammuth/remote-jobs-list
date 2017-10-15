@@ -28,6 +28,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
+| ❇️ | [Larajobs](http://larajobs.com) | LaraJobs connects talented Laravel developers with the companies who hire them. |
 
 
 ### 🔨 Freelancing
@@ -38,6 +39,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [Toptal](https://www.toptal.com/) | Toptal is an exclusive network of the top freelance software developers, designers, and finance experts in the world.        |
+| ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
 
 
 ### :floppy_disk: Development

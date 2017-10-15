@@ -40,6 +40,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [Toptal](https://www.toptal.com/) | Toptal is an exclusive network of the top freelance software developers, designers, and finance experts in the world.        |
 | ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
+| ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
 
 
 ### :floppy_disk: Development

@@ -10,7 +10,6 @@ These remote job sites advertise a range of jobs in the tech industry.
  
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
 | ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
@@ -27,12 +26,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
+| ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 
-
-### :apple: Design 
-|    | Site                                                                                                          | Description                                                   |
-|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
 
 
 ### :gem: Premium 
@@ -46,7 +41,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities. These jobs are often referred to as telecommuting, telework, online, virtual, & work-from-home.       |
 
 
-### ☎️ Support
+
+### 🔨 Freelancing
 
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -59,3 +55,17 @@ These remote job sites advertise a range of jobs in the tech industry.
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |
+
+
+### :apple: Design 
+|    | Site                                                                                                          | Description                                                   |
+|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
+
+
+
+### ☎️ Support
+
+|    | Site                                                                                                           | Description                                                   |
+|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |

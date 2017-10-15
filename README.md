@@ -46,6 +46,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Fiverr focuses on “gigs” or “micro-jobs,” such as editing an image in photoshop, designing a Facebook ad, or brainstorming SEO-rank-worthy article titles.       |
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |
+| ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
 
 
 ### :floppy_disk: Development

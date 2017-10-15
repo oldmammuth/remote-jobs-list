@@ -28,6 +28,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
+| ❇️ | [Larajobs](http://larajobs.com) | LaraJobs connects talented Laravel developers with the companies who hire them. |
 
 
 ### 🔨 Freelancing

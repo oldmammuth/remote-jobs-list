@@ -25,7 +25,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 | ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities. These jobs are often referred to as telecommuting, telework, online, virtual, & work-from-home.       |
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
-| ❇️ | [flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
+| ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
 
 
 ### 🔨 Freelancing

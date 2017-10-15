@@ -38,8 +38,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
+| ❇️ | [Toptal](https://www.toptal.com/) | Toptal is an exclusive network of the top freelance software developers, designers, and finance experts in the world.        |
 | ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
-
 
 
 ### :floppy_disk: Development

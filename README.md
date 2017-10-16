@@ -33,6 +33,9 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | Outsourcely pairs up remote workers with employers seeking both full and part-time employees. |
 | ❇️ | [PowerToFly](https://powertofly.com/) | PowerToFly is focused on matching women in tech with remote work jobs. |
 | ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
+| ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
+| ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
+
 
 
 ### 🔨 Freelancing
@@ -47,6 +50,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Fiverr focuses on “gigs” or “micro-jobs,” such as editing an image in photoshop, designing a Facebook ad, or brainstorming SEO-rank-worthy article titles.       |
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |
 | ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
+| ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
 
 
 ### :floppy_disk: Development
@@ -54,6 +58,7 @@ These remote job sites advertise a range of jobs in the tech industry.
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |
+| ❇️ | [Ruby Now](https://jobs.rubynow.com/) | Job Board for Ruby developers. |
 
 
 ### :apple: Design

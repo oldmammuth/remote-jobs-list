@@ -59,7 +59,6 @@ These remote job sites advertise a range of jobs in the tech industry.
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |
-| ❇️ | [Ruby Now](https://jobs.rubynow.com/) | Job Board for Ruby developers. |
 
 
 ### :apple: Design

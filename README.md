@@ -35,7 +35,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
 | ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
 | ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
-| ❇️ | [Remote Year](https://remoteyear.com/) | Work remotly from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
+| ❇️ | [Remote Year](https://remoteyear.com/) | Work remotely from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
 
 
 

@@ -58,7 +58,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs) | Stack Overflow's section focused on development remote jobs.        |
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
 
 
 ### :apple: Design

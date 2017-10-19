@@ -68,6 +68,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
+| ❇️ | [99designs](https://99designs.com) | 99designs is the world’s largest online graphic design marketplace.       |
 
 
 

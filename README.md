@@ -36,6 +36,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
 | ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
 | ❇️ | [Remote Year](https://remoteyear.com/) | Work remotely from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
+| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products, join the best startups and build amazing products all over the world. |
+
 
 
 
@@ -52,6 +54,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |
 | ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
 | ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
+| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Truelancer is an Online Platform for working with real clients across the world. |
 
 
 ### :floppy_disk: Development

@@ -37,8 +37,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
 | ❇️ | [Remote Year](https://remoteyear.com/) | Work remotely from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
 | ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products, join the best startups and build amazing products all over the world. |
-
-
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
 
 
 ### 🔨 Freelancing
@@ -62,6 +61,7 @@ These remote job sites advertise a range of jobs in the tech industry.
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
+| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | These are jobs at startups that were funded by Y Combinator. |
 
 
 ### :apple: Design

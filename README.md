@@ -35,7 +35,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
 | ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
 | ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
-| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products, join the best startups and build amazing products all over the world. |
+| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products. |
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
 
 

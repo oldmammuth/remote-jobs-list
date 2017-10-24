@@ -80,7 +80,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Remote Year](https://remoteyear.com/) | Work remotely from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
+| ❇️ | [Remote Year](https://remoteyear.com/) | Travel, live, and work in a different remote city around the globe each month for a year. |
 | ❇️ | [Nomad House](https://nomadhouse.io/) | Kickstart your digital nomad journey in our coworking trips. |
 
 

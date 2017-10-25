@@ -53,6 +53,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Truelancer is an Online Platform for working with real clients across the world. |
 | ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
+| ️️️❇️ | [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) | Amazon mechanical turk simply called as MTurk is the one of the most widely used web platform for all people who wants to earn money from online part time jobs. |
+| ️️️❇️ | [99Freelas](https://www.99freelas.com.br/) | 99Freelas thats a brazilian platform to connect freelancers and clients |
 
 
 ### :floppy_disk: Development

@@ -10,57 +10,57 @@ These remote job sites advertise a range of jobs in the tech industry.
 
 |    | Site                                                                                                          | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
-| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
-| ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more.       
-| ❇️ | [Remote.com](https://remote.com/jobs) | Find a remote job to fit your lifestyle.        |
-| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | Remote jobs for developers, customer service reps, recruiters, designers and sales professionals        |
-| ❇️ | [RemoteBase](https://remotebase.io/) | Work remotely. From anywhere on the planet.        |
-| ❇️ | [Remoteur](http://www.remoteur.com/) | Remote jobs in Europe delivered to your inbox bi-weekly.        |
-| ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
-| ❇️ | [Remotive](https://remotive.io/) | Remotive helps 25,000+ remote workers.        |
-| ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | We aggregate remote jobs from around the web.        |
-| ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
-| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
+| ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
+| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
-| ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities.   |
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
-| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
+| ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
+| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
+| ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more.       
 | ❇️ | [Larajobs](http://larajobs.com) | LaraJobs connects talented Laravel developers with the companies who hire them. |
-| ❇️ | [Virtual Vocations](https://www.virtualvocations.com/) | This job board features only telecommuting jobs from technical writers to paralegals. |
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | Outsourcely pairs up remote workers with employers seeking both full and part-time employees. |
 | ❇️ | [PowerToFly](https://powertofly.com/) | PowerToFly is focused on matching women in tech with remote work jobs. |
-| ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
-| ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
-| ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
 | ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products. |
-| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
+| ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | Database of remote jobs with more than 690 employers. |
+| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | Remote jobs for developers, customer service reps, recruiters, designers and sales professionals        |
+| ❇️ | [Remote.com](https://remote.com/jobs) | Find a remote job to fit your lifestyle.        |
+| ❇️ | [Remote.jobs](https://remote.jobs/) | List of jobs remote-friendly across the globe. |
+| ❇️ | [RemoteBase](https://remotebase.io/) | Work remotely. From anywhere on the planet.        |
+| ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | We aggregate remote jobs from around the web.        |
+| ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
+| ❇️ | [Remoteur](http://www.remoteur.com/) | Remote jobs in Europe delivered to your inbox bi-weekly.        |
+| ❇️ | [Remotive](https://remotive.io/) | Remotive helps 25,000+ remote workers.        |
+| ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities.   |
+| ❇️ | [Virtual Vocations](https://www.virtualvocations.com/) | This job board features only telecommuting jobs from technical writers to paralegals. |
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
+| ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
+| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
 
 
 ### 🔨 Freelancing
 
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
-| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
-| ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
-| ❇️ | [Toptal](https://www.toptal.com/) | Toptal is an exclusive network of the top freelance software developers, designers, and finance experts in the world.        |
-| ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
-| ❇️ | [Fiverr](https://www.fiverr.com/) | Fiverr focuses on “gigs” or “micro-jobs,” such as editing an image in photoshop, designing a Facebook ad, or brainstorming SEO-rank-worthy article titles.       |
-| ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |
 | ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
-| ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
+| ❇️ | [Fiverr](https://www.fiverr.com/) | Fiverr focuses on “gigs” or “micro-jobs,” such as editing an image in photoshop, designing a Facebook ad, or brainstorming SEO-rank-worthy article titles.       |
+| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
+| ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |
+| ❇️ | [Guru](https://www.guru.com/) | Guru has a range of remote gigs from legal, sales, software to architecture, finance, design.       |
+| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
+| ❇️ | [Toptal](https://www.toptal.com/) | Toptal is an exclusive network of the top freelance software developers, designers, and finance experts in the world.        |
+| ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Truelancer is an Online Platform for working with real clients across the world. |
+| ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
 
 
 ### :floppy_disk: Development
 
  |    | Site                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | These are jobs at startups that were funded by Y Combinator. |
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
 
 
 ### :apple: Design
@@ -80,8 +80,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Remote Year](https://remoteyear.com/) | Travel, live, and work in a different remote city around the globe each month for a year. |
 | ❇️ | [Nomad House](https://nomadhouse.io/) | Kickstart your digital nomad journey in our coworking trips. |
+| ❇️ | [Remote Year](https://remoteyear.com/) | Travel, live, and work in a different remote city around the globe each month for a year. |
 
 
  ## License

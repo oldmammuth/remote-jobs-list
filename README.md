@@ -53,6 +53,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
 | ️️️❇️ | [Workana](https://www.workana.com/) | South american platform for freelancers |
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Truelancer is an Online Platform for working with real clients across the world. |
+| ️️️❇️ | [99Freelas](https://www.99freelas.com.br/) | 99Freelas thats a brazilian platform to connect freelancers and clients |
 
 
 ### :floppy_disk: Development

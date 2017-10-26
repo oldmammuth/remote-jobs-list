@@ -18,7 +18,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
 | ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
-| ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more.       
+| ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more. |
+| ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | Curated list of remote jobs, with partially remote opportunities as well in Europe. |
 | ❇️ | [Larajobs](http://larajobs.com) | LaraJobs connects talented Laravel developers with the companies who hire them. |
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | Outsourcely pairs up remote workers with employers seeking both full and part-time employees. |
 | ❇️ | [PowerToFly](https://powertofly.com/) | PowerToFly is focused on matching women in tech with remote work jobs. |

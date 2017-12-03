@@ -45,6 +45,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [CodementorX](https://www.codementor.io/developers) | CodementorX has senior software developers in every tech stack. Check out the list below to find freelance developers that fit your needs..        |
+| ❇️ | [Codeable](https://codeable.io/) | Codeable is a premium, on-demand Wordpress outsourcing service. Focus is on quality. Rates are $60-$90 per hour.       |
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Fiverr focuses on “gigs” or “micro-jobs,” such as editing an image in photoshop, designing a Facebook ad, or brainstorming SEO-rank-worthy article titles.       |
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Gun.io is a freelance platform designed for developers, you can sign up with GitHub and they'll help match you with companies that need your services.       |

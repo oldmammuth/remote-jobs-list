@@ -67,6 +67,8 @@ Companies that sometimes advertise remote roles.
 
 ### 🔨 Freelancing
 
+Prefer to work for yourself? Here's a list of freelancing websites.
+
 |    | Site                                                                                                          | 
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [CodementorX](https://www.codementor.io/developers) |

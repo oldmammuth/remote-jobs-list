@@ -60,7 +60,7 @@ Companies that sometimes advertise remote roles.
 
 ### 🔨 Freelancing
 
-|    | Site                                                                                                           | Description                                                   |
+|    | Site                                                                                                           | 
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [CodementorX](https://www.codementor.io/developers) |
 | ❇️ | [Codeable](https://codeable.io/) |

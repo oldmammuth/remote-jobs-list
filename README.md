@@ -43,11 +43,11 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) |
 | ❇️ | [Supporting Roles](https://supportingroles.io/) |
 
-### ✈️ Job Boards
+### ✈️ Remote Companies
 
 Companies that sometimes advertise remote roles.
 
-|    | Site                                                                                                          | Description                                                   |
+|    | Site                                                                                                           | 
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) |
 | ❇️ | [10UP](https://10up.com/careers/) |
@@ -56,6 +56,13 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Buffer](http://journey.buffer.com/) |
 | ❇️ | [YNAB](https://www.youneedabudget.com/jobs/) |
 | ❇️ | [Toggl](https://jobs.toggl.com/) |
+| ❇️ | [Toggl](https://jobs.toggl.com/) |
+| ❇️ | [Doist](https://doist.com/jobs/) |
+| ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) |
+| ❇️ | [Knack](https://www.knack.com/jobs/) |
+| ❇️ | [Invision App](https://www.invisionapp.com/company) |
+| ❇️ | [Git Lab](https://about.gitlab.com/jobs/) |
+
 
 
 ### 🔨 Freelancing
@@ -80,7 +87,7 @@ Companies that sometimes advertise remote roles.
 
 ### 🌏 Other (Not jobs, but handy links)
 
-|    | Site                                                                                                           | Description                                                   |
+|    | Site                                                                                                           | 
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [Nomad House](https://nomadhouse.io/) |
 | ❇️ | [Remote Year](https://remoteyear.com/) | 

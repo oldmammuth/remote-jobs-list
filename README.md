@@ -8,8 +8,8 @@ An 'Awesome List' of companies or jobs boards advertising Remote Jobs.
 
 These remote job sites advertise a range of jobs in the tech industry.
 
-|    | Site                                                                                                          | Description                                                   |
-|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|    | Site                                                                                                          | 
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [AngelList](https://angel.co/) |
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | 
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) |

@@ -4,7 +4,7 @@ An 'Awesome List' of companies or jobs boards advertising Remote Jobs.
 
 ### Think there's someone missing? Add it here!
 
-### :computer: General Tech
+### 📌 Job Boards
 
 These remote job sites advertise a range of jobs in the tech industry.
 
@@ -38,6 +38,10 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
+| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | These are jobs at startups that were funded by Y Combinator. |
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
+| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
+| ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |
 
 
 ### 🔨 Freelancing
@@ -60,28 +64,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Engineer Babu, An Indian Platform to conect freelancers and clients |
 
 
-### :floppy_disk: Development
-
- |    | Site                                                                                                           | Description                                                   |
- |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | These are jobs at startups that were funded by Y Combinator. |
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Stack Overflow's section focused on development remote jobs.        |
-
-
-### :apple: Design
-|    | Site                                                                                                          | Description                                                   |
-|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | Remote jobs for designers.       |
-
-
-### ☎️ Support
-
-|    | Site                                                                                                           | Description                                                   |
-|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Supporting Roles](https://supportingroles.io/) | Focusing on remote support roles only.        |
-
-
-### 🌏 Remote Work Packages
+### 🌏 Other (Not jobs, but handy links)
 
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|

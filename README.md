@@ -6,7 +6,7 @@ An 'Awesome List' of companies or jobs boards advertising Remote Jobs.
 
 ### 📌 Job Boards
 
-These remote job sites advertise a range of jobs in the tech industry.
+Remote Jobs boards advertising roles in a variety of industries.
 
 |    | Site                                                                                                          | 
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -86,13 +86,6 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ️️️❇️ | [99Freelas](https://www.99freelas.com.br/) |
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) |
 
-
-### 🌏 Other (Not jobs, but handy links)
-
-|    | Site                                                                                                          | 
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [Nomad House](https://nomadhouse.io/) |
-| ❇️ | [Remote Year](https://remoteyear.com/) | 
 
 
  ## License

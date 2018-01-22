@@ -63,6 +63,8 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Knack](https://www.knack.com/jobs/) |
 | ❇️ | [Invision App](https://www.invisionapp.com/company) |
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) |
+| ❇️ | [X Team](https://x-team.com/) |
+
 
 ### 👩‍🏫 Teaching
 
@@ -93,7 +95,7 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ️️️❇️ | [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) |
 | ️️️❇️ | [99Freelas](https://www.99freelas.com.br/) |
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) |
-
+| ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) |
 
 
  ## License

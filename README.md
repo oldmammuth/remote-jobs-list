@@ -56,7 +56,6 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Buffer](http://journey.buffer.com/) |
 | ❇️ | [YNAB](https://www.youneedabudget.com/jobs/) |
 | ❇️ | [Toggl](https://jobs.toggl.com/) |
-| ❇️ | [Toggl](https://jobs.toggl.com/) |
 | ❇️ | [Doist](https://doist.com/jobs/) |
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) |
 | ❇️ | [Knack](https://www.knack.com/jobs/) |

@@ -29,6 +29,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [Remote.com](https://remote.com/jobs) | 
 | ❇️ | [Remote.jobs](https://remote.jobs/) | 
 | ❇️ | [RemoteBase](https://remotebase.io/) | 
+| ❇️ | [RemotePossible](https://remotepossible.com/) |
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | 
 | ❇️ | [RemoteOK](https://remoteok.io/) | 
 | ❇️ | [Remoteur](http://www.remoteur.com/) | 

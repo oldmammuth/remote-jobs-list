@@ -68,16 +68,14 @@ Companies that sometimes advertise remote roles.
 
 
 ### 👩‍🏫 Teaching
-
 Remote teaching companies.
 
 || Site |   Details | * |                                                                                                         
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |
-| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |           
+| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |👩‍🏫|
+| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |👩‍🏫|        
 
 ### 🔨 Freelancing
-
 Prefer to work for yourself? Here's a list of freelancing websites.
 
 || Site |   Details | * |                                                                                                         
@@ -97,8 +95,4 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. |🌟|
 
 
- ## License
 
- [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
- To the extent possible under law, [Andrew Raynes](https://twitter.com/ajukco) has waived all copyright and related or neighboring rights to this work.

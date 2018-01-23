@@ -63,39 +63,38 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Knack](https://www.knack.com/jobs/) |
 | ❇️ | [Invision App](https://www.invisionapp.com/company) |
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) |
-| ❇️ | [X Team](https://x-team.com/) |
+| ❇️ | [X Team](https://x-team.com/) | 
+| ❇️ | [Engineer Babu](https://www.engineerbabu.com/) |
 
 
 ### 👩‍🏫 Teaching
 
 Remote teaching companies.
 
-|    | Site                                                                                                          | 
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) |
-| ❇️ | [VIPKid](https://t.vipkid.com.cn/) |
+|| Name | Details |
+|--|--|--|--|
+| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |
+| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |           
 
 ### 🔨 Freelancing
 
 Prefer to work for yourself? Here's a list of freelancing websites.
 
-|    | Site                                                                                                          | 
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [CodementorX](https://www.codementor.io/developers) |
-| ❇️ | [Codeable](https://codeable.io/) |
-| ❇️ | [Fiverr](https://www.fiverr.com/) |
-| ❇️ | [Freelancer](https://www.freelancer.com/) |
-| ❇️ | [GunIO](https://www.gun.io/#hacker) |
-| ❇️ | [Guru](https://www.guru.com/) |
-| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) |
-| ❇️ | [Toptal](https://www.toptal.com/) |
-| ❇️ | [Upwork](https://www.upwork.com/) |
-| ️️️❇️ | [Truelancer](https://www.truelancer.com/) |
-| ️️️❇️ | [Workana](https://www.workana.com/) |
-| ️️️❇️ | [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) |
-| ️️️❇️ | [99Freelas](https://www.99freelas.com.br/) |
-| ❇️ | [Engineer Babu](https://www.engineerbabu.com/) |
-| ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) |
+|| Name | Details | * |
+|--|--|--|--|--|
+| ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
+| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. |🌟|
+| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. |🌟 |
+| ❇️ | [Toptal](https://www.toptal.com/) | Freelance developers, designers, & finance experts. |🌟|
+| ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. |🌟|
+| ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. |🌟|
+| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. |🎨|
+| ❇️ | [CodementorX](https://www.codementor.io/developers) | Freelance developer community. |💻| 
+| ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. |💻|
+| ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. |💻|
+| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. |🌟|
+| ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. |🌟|
+| ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. |🌟|
 
 
  ## License

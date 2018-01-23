@@ -28,6 +28,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs |💻|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
+| ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) |  A remote jobs board. |🌟|
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | A remote jobs board. |🌟|

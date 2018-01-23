@@ -46,6 +46,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
+| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
 
 ### ✈️ Remote Companies
 

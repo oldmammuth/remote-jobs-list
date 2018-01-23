@@ -71,8 +71,8 @@ Companies that sometimes advertise remote roles.
 
 Remote teaching companies.
 
-|| Name | Details |
-|--|--|--|--|
+|| Site |   Details | * |                                                                                                         
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |           
 

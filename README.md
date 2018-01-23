@@ -8,17 +8,20 @@ An 'Awesome List' of companies or jobs boards advertising Remote Jobs.
 
 Remote Jobs boards advertising roles in a variety of industries.
 
-|    | Site                                                                                                          | 
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ❇️ | [AngelList](https://angel.co/) |
-| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | 
+|| Site |   Details | * |                                                                                                         
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
+| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
+| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
+| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|
+| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟|
+| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| 
+| ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
+| ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻| 
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) |
 | ❇️ | [Flexjobs](https://www.flexjobs.com) |
-| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) |
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | 
-| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | 
-| ❇️ | [Jobscribe](http://jobscribe.com) | 
-| ❇️ | [Jobspresso](https://jobspresso.co/) |
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) |
 | ❇️ | [Larajobs](http://larajobs.com) |
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) |
@@ -31,26 +34,22 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [RemoteBase](https://remotebase.io/) | 
 | ❇️ | [RemotePossible](https://remotepossible.com/) |
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | 
-| ❇️ | [RemoteOK](https://remoteok.io/) | 
 | ❇️ | [Remoteur](http://www.remoteur.com/) | 
-| ❇️ | [Remotive](https://remotive.io/) | 
 | ❇️ | [Remote Zoo](https://remotezoo.com/) | 
 | ❇️ | [Skip the Drive](https://www.skipthedrive.com/) |
 | ❇️ | [Virtual Vocations](https://www.virtualvocations.com/) |
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |
 | ❇️ | [WFH](https://www.wfh.io/) | 
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | 
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | 
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) |
-| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) |
 | ❇️ | [Supporting Roles](https://supportingroles.io/) |
 
 ### ✈️ Remote Companies
 
 Companies that sometimes advertise remote roles.
 
-|    | Site                                                                                                          | 
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|| Site |   Details | * |                                                                                                         
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) |
 | ❇️ | [10UP](https://10up.com/careers/) |
 | ❇️ | [Articulate](https://articulate.com/company/careers/) |

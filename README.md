@@ -66,15 +66,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [X Team](https://x-team.com/) | 
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) |
 
-
-### 👩‍🏫 Teaching
-
-Remote teaching companies.
-
-|| Name | Details |
-|--|--|--|--|
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |
-| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |           
+        
 
 ### 🔨 Freelancing
 

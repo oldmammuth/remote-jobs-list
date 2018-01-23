@@ -80,7 +80,7 @@ Remote teaching companies.
 
 Prefer to work for yourself? Here's a list of freelancing websites.
 
-|| Name | Details | * |
+|  | Name | Details | * |
 |--|--|--|--|--|
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. |🌟|

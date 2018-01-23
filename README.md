@@ -54,7 +54,7 @@ Companies that sometimes advertise remote roles.
 
 || Site |   Details | * |                                                                                                         
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
-| ❇️ | [Zapier](https://zapier.com/about/) | Agency. |💻|
+| ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. |🌟|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. |🌟|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
 | ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool |🌟|

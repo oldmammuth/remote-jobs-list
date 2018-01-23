@@ -1,7 +1,15 @@
 # Remote Jobs List
-An 'Awesome List' of companies or jobs boards advertising Remote Jobs.
+Simply a list of companies or jobs boards advertising Remote Jobs. (I may develop a website or app in the future).
 
-### Think there's someone missing? Add it here!
+| Categories | * |
+|--|--|
+| Variety |🌟|
+| Design |🎨|
+| Tech |💻|
+| Teaching |👩‍🏫|
+| Support |📱|
+
+### Think there's someone missing? Add it with a pull request.
 
 ### 📌 Job Boards
 
@@ -32,7 +40,6 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. |🌟|
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. |🌟|
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
-| ❇️ | [RemotePossible](https://remotepossible.com/) |
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|

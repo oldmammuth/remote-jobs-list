@@ -92,5 +92,6 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. |🌟|
 
 
-Follow me on [Twitter](https://twitter.com/ajukco).
+---
+👨‍💻 Follow me on [Twitter](https://twitter.com/ajukco).
 

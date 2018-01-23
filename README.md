@@ -1,5 +1,5 @@
 # Remote Jobs List
-Simply a list of companies or jobs boards advertising Remote Jobs. (I may develop a website or app in the future).
+Simply a list of companies or jobs boards advertising Remote Jobs.
 
 | Categories | * |
 |--|--|

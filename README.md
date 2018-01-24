@@ -17,17 +17,16 @@ Remote Jobs boards advertising roles in a variety of industries.
 
 || Site |   Details | * |                                                                                                         
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
-| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
-| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
+| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs |💻|
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
+| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟|
 | ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| 
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
-| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
-| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs |💻|
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) |  A remote jobs board. |🌟|
@@ -45,8 +44,11 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟|
-| ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
+| ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|
+| ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
+| ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
+| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
 
 ### ✈️ Remote Companies
 
@@ -54,17 +56,17 @@ Companies that sometimes advertise remote roles.
 
 || Site |   Details | * |                                                                                                         
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
-| ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. |🌟|
-| ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. |🌟|
-| ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
-| ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool |🌟|
-| ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals |🌟|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. |🌟|
+| ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. |🌟|
+| ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals |🌟|
+| ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. |🌟|
+| ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool |🌟|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. |🌟|
 | ❇️ | [X Team](https://x-team.com/) | Agency |💻| 
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. |💻|
+| ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
 
 
 ### 👩‍🏫 Teaching
@@ -86,13 +88,13 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Toptal](https://www.toptal.com/) | Freelance developers, designers, & finance experts. |🌟|
 | ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. |🌟|
 | ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. |🌟|
-| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. |🎨|
-| ❇️ | [CodementorX](https://www.codementor.io/developers) | Freelance developer community. |💻| 
-| ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. |💻|
-| ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. |💻|
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. |🌟|
 | ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. |🌟|
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. |🌟|
+| ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. |💻|
+| ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. |💻|
+| ❇️ | [CodementorX](https://www.codementor.io/developers) | Freelance developer community. |💻| 
+| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. |🎨|
 
 
 ---

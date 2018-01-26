@@ -15,7 +15,7 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 
 Remote Jobs boards advertising roles in a variety of industries.
 
-|| Site |   Details | * |                                                                                                         
+|| Site |   Details | * | API |                                                                                                       
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|

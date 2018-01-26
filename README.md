@@ -23,7 +23,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs |💻|
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
-| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟|
+| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟| [JSON](https://authenticjobs.com/api/docs)
 | ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟| [JSON](https://github.com/wfhio/api)|
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|

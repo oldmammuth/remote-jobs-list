@@ -24,7 +24,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟|
-| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| 
+| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| [JSON](https://remoteok.io/remote-jobs.json) |
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|

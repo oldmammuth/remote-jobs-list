@@ -24,7 +24,8 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟|
-| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| [JSON](https://remoteok.io/remote-jobs.json) |
+| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
+| ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟| [JSON](https://github.com/wfhio/api)|
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
@@ -42,7 +43,6 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
-| ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|Api.....|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|

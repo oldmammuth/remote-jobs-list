@@ -18,7 +18,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 || Site |   Details | * | API |                                                                                                       
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
-| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|
+| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|[JSON](https://jobs.github.com/api)
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs |💻|
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|

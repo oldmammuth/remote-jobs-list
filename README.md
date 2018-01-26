@@ -16,7 +16,7 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 Remote Jobs boards advertising roles in a variety of industries.
 
 || Site |   Details | * |                                                                                                         
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
@@ -42,7 +42,7 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
-| ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|
+| ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟|Api.....|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|

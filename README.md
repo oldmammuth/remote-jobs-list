@@ -12,9 +12,12 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 ### Think there's someone missing? Add it with a pull request.
 
 ### 🔥  Job board aggregators
+
+Many sites aggregate job listing from a variety of sources, it can 'sometimes' be easier to look on these boards for large quantities of job listings.
+
 || Site |   Details | * | API |                                                                                                       
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. |💻|
+| ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. |🌟|
@@ -22,7 +25,7 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 
 ### 📌 Job board
 
-Many sites aggregate job listing from a variety of sources, it can 'sometimes' be easier to look on these boards for large quantities of job listings.
+A list of remote job boards.
 
 || Site |   Details | * | API |                                                                                                       
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|

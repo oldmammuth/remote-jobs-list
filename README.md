@@ -45,8 +45,8 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
-| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟|
-| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
+| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
+| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|

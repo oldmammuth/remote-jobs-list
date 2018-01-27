@@ -25,7 +25,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. |🌟|
 
-### 📌 Job board
+### 📌 Job boards
 
 A list of remote job boards.
 

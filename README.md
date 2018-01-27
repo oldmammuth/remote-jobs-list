@@ -15,13 +15,15 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 
 Many sites aggregate job listing from a variety of sources, it can 'sometimes' be easier to look on these boards for large quantities of job listings.
 
-|| Site |   Details | * | API |                                                                                                       
+|| Site |   Details | * | API |                                                                                                     
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. |🌟|
+| ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. |🌟|
+| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. |🌟|
 
 ### 📌 Job board
 
@@ -43,7 +45,6 @@ A list of remote job boards.
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. |🌟|
-| ❇️ | [Go Remote Jobs](https://goremotejobs.com/) |  A remote jobs board. |🌟|
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | A remote jobs board. |🌟|
 | ❇️ | [Larajobs](http://larajobs.com) | A remote jobs board. |🌟|
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | A remote jobs board. |🌟|
@@ -54,10 +55,8 @@ A list of remote job boards.
 | ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. |🌟|
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. |🌟|
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
-| ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
-| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | A remote jobs board. |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|

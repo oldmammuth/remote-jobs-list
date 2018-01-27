@@ -66,7 +66,8 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. |🌟|
-| ❇️ | [X Team](https://x-team.com/) | Agency |💻| 
+| ❇️ | [X Team](https://x-team.com/) | Agency. |💻| 
+| ❇️ | [Toptal](https://www.toptal.com/) | Agency. |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
 
@@ -87,7 +88,6 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. |🌟|
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. |🌟 |
-| ❇️ | [Toptal](https://www.toptal.com/) | Freelance developers, designers, & finance experts. |🌟|
 | ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. |🌟|
 | ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. |🌟|
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. |🌟|

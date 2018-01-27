@@ -11,9 +11,18 @@ Simply a list of companies or jobs boards advertising Remote Jobs.
 
 ### Think there's someone missing? Add it with a pull request.
 
-### 📌 Job Boards
+### 🔥  Job board aggregators
+|| Site |   Details | * | API |                                                                                                       
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. |💻|
+| ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
+| ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. |🌟|
+| ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. |🌟|
+| ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. |🌟|
 
-Remote Jobs boards advertising roles in a variety of industries.
+### 📌 Job board
+
+Many sites aggregate job listing from a variety of sources, it can 'sometimes' be easier to look on these boards for large quantities of job listings.
 
 || Site |   Details | * | API |                                                                                                       
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
@@ -26,7 +35,6 @@ Remote Jobs boards advertising roles in a variety of industries.
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟| [JSON](https://authenticjobs.com/api/docs)
-| ❇️ | [RemoteOK](https://remoteok.io/) | A popular remote jobs board. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟| [JSON](https://github.com/wfhio/api)|
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|

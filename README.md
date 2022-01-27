@@ -16,7 +16,7 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | More geared toward web design and arts. It has got a fixed hour working method, or a per-job payment and contests.        |
 | ❇️ | [FreshRemote.work](https://freshremote.work/) |  Lots of daily fresh tech and non-tech remote roles.        |
-
+| ❇️ | [freelancermap](https://www.freelancermap.com/it-projects.html) | Local and remote IT roles from international clients.        |
 
 
 ### ☎️ Support

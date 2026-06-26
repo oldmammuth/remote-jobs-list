@@ -11,6 +11,7 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
  |    | Site                                                                                                          | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
+| ❇️ | [Meridian](https://meridianremote.com/) | Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds.        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
 | ❇️ | [Freelancer](freeelancer.com) | Freelancer offer jobs for freelance programmers, writing, design, legal work and more. It describes itself as a *talent pool*.       |

@@ -10,6 +10,7 @@ An 'Awesome List' of websites/apps to check out for Remote Jobs.
  
  |    | Site                                                                                                          | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters.        |
 | ❇️ | [RemoteOK](https://remoteok.io/) | The largest collection of 25000+ Remote Jobs for Digital Nomads.        |
 | ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Upwork](https://www.upwork.com/) | Upwork (formerly oDesk and elance.com) offers a variety of tech remote jobs, as well as Personal Assistant, copywriting, translators', accountant, customer service agents ...        |
